@@ -64,8 +64,6 @@ function añadirIngredientes() {
 console.log(añadirIngredientes());
 
 
-
-
 //horneando la pizza.
 
 function horneandoPizza() {
@@ -89,13 +87,6 @@ function pizzaEntregada() {
 }
 
 console.log(pizzaEntregada());
-
-
-
-
-
-
-
 
 
 
